@@ -54,7 +54,7 @@ Time-series analysis that enables users to compare reporting trends across diffe
 * Geospatial Analytics
 * Executive Reporting
 * 
-<iframe title="Child Incidents" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZDAwOWI3NmUtNzVlMC00MTYxLThmYmMtODFhYzYyZWIyZDkwIiwidCI6IjJkYzk0ZDczLWE4ZWMtNGRjYS04NGEwLTBjZjRmMjdmOTVkOCJ9" frameborder="0" allowFullScreen="true"></iframe>
+<img width="1332" height="698" alt="image" src="https://github.com/user-attachments/assets/e6562e34-3733-4bbb-ab87-ba1ec52de043" />
 
 ## Business Value
 
