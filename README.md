@@ -53,8 +53,11 @@ Time-series analysis that enables users to compare reporting trends across diffe
 * KPI Development
 * Geospatial Analytics
 * Executive Reporting
-* 
+  
+##Screenshots
 <img width="1332" height="698" alt="image" src="https://github.com/user-attachments/assets/e6562e34-3733-4bbb-ab87-ba1ec52de043" />
+<img width="1332" height="679" alt="image" src="https://github.com/user-attachments/assets/9f368244-2aed-41e8-a674-9597d0d4bd5e" />
+
 
 ## Business Value
 
